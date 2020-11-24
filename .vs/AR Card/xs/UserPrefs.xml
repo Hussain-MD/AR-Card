@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{42C710F5-7BC2-FBFB-C327-8F09F26359DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OpenURL.cs">
+    <Files>
+      <File FileName="Assets/OpenURL.cs" Line="27" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR Card" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OpenURL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7404eb0e-fba7-434e-8670-05856578e4d7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
